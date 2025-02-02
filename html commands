@@ -1,0 +1,16 @@
+Note: follow same for every element.
+  * <html>  : starts
+  * </html> : ends
+
+TAGS:
+1. <!DOCTYPE html>    : Specify the document "type" and "version" of HTML being used.
+2. <html>             : Defines the "Start" of an HTML Document.
+3. <head>             : Contains meta info about the html page.    (e.g., description, keywords, author, charset, and viewport settings)
+4. <title>            : Sets the webpage’s title, which appears in the browser tab and search engine results.
+5. <body>             : contains all the content that is visible on the webpage, like text, images, and links.
+
+6. <h1>               : Defines a large heading.
+7. <h7>               : Defines a small heading.
+8. <p>                : Defines a paragraph.
+
+
