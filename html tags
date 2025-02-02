@@ -1,0 +1,64 @@
+Note: follow same for every element.
+  * <html>  : starts 
+  * </html> : ends or close
+
+TAGS:
+1. <!DOCTYPE html>    : Specify the document "type" and "version" of HTML being used.
+2. <html>             : Defines the "Start" of an HTML Document.
+3. <head>             : Contains meta info about the html page.    (e.g., description, keywords, author, charset, and viewport settings)
+4. <title>            : Sets the webpage’s title, which appears in the browser tab and search engine results.
+5. <body>             : contains all the content that is visible on the webpage, like text, images, and links.
+
+
+6. <h1>         : Defines a large heading.
+7. <h6>         : Defines a small heading.
+8. <p>          : Defines a paragraph.
+9. <i>          : font change normal to italic style.
+10.<b>          : use for bold text.
+
+11. <mark>      : use for mark the words and letters.
+12. <u>         : use for underline words and letters.
+13. <sup>       : use for squars  (ex: a+b whole sqare formula) 
+14. <sub>       : use for (ex: h2o)
+15. <small>     : use for small text comprad to other text line.
+
+16. <big>       : use for big text comprad to other text line.
+17. <del>       : use for creoss line(delete).
+18. <br>        : use for breake the line or paragraph.
+19. <pre>       : updated tag comprad to <br> show as same as lines.
+20. <code>      : 
+
+21. <body bgcolor="red">     : use for baground change.
+22. <body text="yellow">     : change text color.
+23. 
+24. <img src="copy image location\image name.jpg"/>                                         : display image on webpage.
+25. <img src="copy image location\image name.jpg" alt="image name" width=300 height=300/>   : display image on webpage with specfic hight & width
+
+26. <th>         : use for table hedding.
+27. <tr>         : use for table row.
+28. <td>         : use for table data.
+29. cellpadding  :                           (Do table tag)
+30. cellspacing  :                           (Do table tag)
+
+31. rowspan      :
+32. colspan      : 
+33. bordercolor = "yellow"  : giving border color for table.  (Do table tag)
+34. bgcolor = "yellow"      : change baground color.          (Do table tag)
+35. border = 2              : allocate borders.               (Do table tag)
+
+36. hight = 300             : allocate hight    (Do table tag)
+37. width = 200             : allocate width    (Do table tag)
+38. <caption>               : allocate caption.
+
+
+
+
+
+
+
+
+
+
+
+
+
