@@ -49,6 +49,11 @@ TAGS:
 36. hight = 300             : allocate hight    (Do table tag)
 37. width = 200             : allocate width    (Do table tag)
 38. <caption>               : allocate caption.
+39. <ol>                    : order list.
+40. <li>                    : list itoms.
+
+41. <start="5">      : 
+42. 
 
 
 
