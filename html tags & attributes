@@ -18,25 +18,29 @@ TAGS:
 
 11. <mark>      : use for mark the words and letters.
 12. <u>         : use for underline words and letters.
-13. <sup>       : use for squars  (ex: a+b whole sqare formula) 
+13. <sup>       : use for squars  (ex: a+b whole sqare formula type) 
+    EX: a<sup>2+b<sup>2
+
 14. <sub>       : use for (ex: h2o)
-15. <small>     : use for small text comprad to other text line.
+    EX: a<sub>2+b<sub>2
+
+15. <small>     : use for small text compraed to other text line.
 
 16. <big>       : use for big text comprad to other text line.
 17. <del>       : use for creoss line(delete).
-18. <br>        : use for breake the line or paragraph.
-19. <pre>       : updated tag comprad to <br> show as same as lines.
-20. <code>      : 
+18. </br>       : use for break the line or paragraph.
+19. <pre>       : updated tag comprad to </br> show as same as lines.
+20. <code>      : heare we can write the code only.
 
-21. <body bgcolor="red">     : use for baground change.
+21. <body bgcolor="red">     : use for baground color change.
 22. <body text="yellow">     : change text color.
 23. 
 24. <img src="copy image location\image name.jpg"/>                                         : display image on webpage.
-25. <img src="copy image location\image name.jpg" alt="image name" width=300 height=300/>   : display image on webpage with specfic hight & width
+25. <img src="copy image location\image name.jpg" alt="image name" width=300 height=300/>   : display image on webpage with specfic alternative name,hight & width
 
 26. <th>         : use for table hedding.
 27. <tr>         : use for table row.
-28. <td>         : use for table data.
+28. <td>         : use for table data. 
 29. cellpadding  :                           (Do table tag)
 30. cellspacing  :                           (Do table tag)
 
@@ -53,7 +57,8 @@ TAGS:
 40. <li>                    : list itoms.
 
 41. <start="5">      : 
-42. 
+42. <ul>                : unorderd list
+43. 
 
 
 
