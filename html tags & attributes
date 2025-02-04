@@ -2,24 +2,24 @@ Note: follow same for every element.
   * <html>  : starts 
   * </html> : ends or close
 
-TAGS:
-1. <!DOCTYPE html>    : Specify the document "type" and "version" of HTML being used.
-2. <html>             : Defines the "Start" of an HTML Document.
-3. <head>             : Contains meta info about the html page.    (e.g., description, keywords, author, charset, and viewport settings)
-4. <title>            : Sets the webpage’s title, which appears in the browser tab and search engine results.
-5. <body>             : contains all the content that is visible on the webpage, like text, images, and links.
+1. BASIC TAGS:
+    * <!DOCTYPE html>    : Specify the document "type" and "version" of HTML being used.
+    * <html>             : Defines the "Start" of an HTML Document.
+    * <head>             : Contains meta info about the html page.    (e.g., description, keywords, author, charset, and viewport settings)
+    * <title>            : Sets the webpage’s title, which appears in the browser tab and search engine results.
+    * <body>             : contains all the content that is visible on the webpage, like text, images, and links.
 
 
-6. <h1>         : Defines a large heading.
-7. <h6>         : Defines a small heading.
-8. <p>          : Defines a paragraph.
-9. <i>          : font change normal to italic style.
-10.<b>          : use for bold text.
+    * <h1>         : Defines a large heading.
+    * <h6>         : Defines a small heading.
+    * <p>          : Defines a paragraph.
+    * <i>          : font change normal to italic style.
+    * <b>          : use for bold text.
 
-11. <mark>      : use for mark the words and letters.
-12. <u>         : use for underline words and letters.
-13. <sup>       : use for squars  (ex: a+b whole sqare formula type) 
-    EX: a<sup>2+b<sup>2
+    * <mark>      : use for mark the words and letters.
+    * <u>         : use for underline words and letters.
+    * <sup>       : use for squars  (ex: a+b whole sqare formula type) 
+        EX: a<sup>2+b<sup>2
 
 14. <sub>       : use for (ex: h2o)
     EX: a<sub>2+b<sub>2
@@ -38,8 +38,10 @@ TAGS:
 24. <img src="copy image location\image name.jpg"/>                                         : display image on webpage.
 25. <img src="copy image location\image name.jpg" alt="image name" width=300 height=300/>   : display image on webpage with specfic alternative name,hight & width
 
+26. align        : align the content or images at particular place like(middle,left,right)
+26. <table>      : inside the table we can create rows,colloms & data etc.. 
 26. <th>         : use for table hedding.
-27. <tr>         : use for table row.
+27. <tr>         : use for table rows.
 28. <td>         : use for table data. 
 29. cellpadding  :                           (Do table tag)
 30. cellspacing  :                           (Do table tag)
@@ -53,14 +55,77 @@ TAGS:
 36. hight = 300             : allocate hight    (Do table tag)
 37. width = 200             : allocate width    (Do table tag)
 38. <caption>               : allocate caption.
-39. <ol>                    : order list.
+39. <ol>                    : order list (ex: numbers, roman numbers, etc...) 
+39  type = "i"              : give type letters or numbers.
+39. start = "5"             : starting from 5th number (ex: start with middle numbers or letters)
 40. <li>                    : list itoms.
 
-41. <start="5">      : 
-42. <ul>                : unorderd list
-43. 
+41. <ul>              : unorderd list (ex: bullets, circles, dots, etc...)
+42. <dl>              : defination list 
+43. <dd>              : write matter.
+45. <dt>              : side hedding.
 
+46. marquee tags : used to scrole the "text-lines" or "images" on the webpage.
+    tag: 
+     * <marquee> 
+    attributes:
+     * scrollamount=5    : increase the scroling speed.
+     * scrollamount=1    : decrease the scroling speed.
+     * width=50%         : text line scrolling 50% on screen. 
+     * direction = right : change scrolling direction right to left.
+     * direction = down  : change scrolling direction up to down.
 
+47. links:
+      tag:
+       * <a>
+      attributes:
+       * href = "copy url"      : used to create the link. (Do <a> tag)
+       * alink="green"          : change click color at time of clicking. (Do body tag)
+       * vlink="red"            : used to change link color. (Do body tag)
+       * target = "_Blank"      : (Do <a> tag)
+
+48. audio & vedio: 
+     tag:
+      * <audio>
+      * <vedio>
+     attributes:
+      * controle     : use for giving permissions paly & stop. (Do audio tag)
+      * loop         : repeat audio & play gain and gain. (Do audio tag)
+
+49. forms & input:
+     tag:
+      * <form>
+      * <input>
+     attributes:
+      * type="text"       (Do <input> tag)
+      * name="username"   (Do <input> tag)
+
+50. <option>       : 
+      
+51. input types:
+     * <input type="button">
+     *  <input type="checkbox">
+     * <input type="color">
+     * <input type="date">
+     * <input type="datetime-local">
+     * <input type="email">
+     * <input type="file">
+     * <input type="hidden">
+     * <input type="image">
+     * <input type="month">
+     * <input type="number">
+     * <input type="password">
+     * <input type="radio">
+     * <input type="range">
+     * <input type="reset">
+     * <input type="search">
+     * <input type="submit">
+     * <input type="tel">
+     * <input type="text">
+     * <input type="time">
+     * <input type="url">
+     * <input type="week">
+      
 
 
 
