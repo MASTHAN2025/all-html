@@ -1,8 +1,9 @@
-1. Targets:
-    * class attributes : "."
-    * id attributes    : "#"
+1. Selectors:
+    * class selector attribute : "."     (used to target the )
+    * id selector attribute    : "#"     
     ex: .stars {        (Do css)
             color: blue;    
          }
-2. 
+2. <link rel="stylesheet" href="demo.css">
+
 
