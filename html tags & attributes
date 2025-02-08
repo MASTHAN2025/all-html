@@ -48,7 +48,7 @@ Note: follow same for every element.
 
 31. rowspan      :
 32. colspan      : 
-33. <span>       : used to 
+33. <span>       : used to hailet particular line or words.
 33. bordercolor = "yellow"  : giving border color for table.  (Do table tag)
 34. bgcolor = "yellow"      : change baground color.          (Do table tag)
 35. border = 2              : allocate borders.               (Do table tag)
