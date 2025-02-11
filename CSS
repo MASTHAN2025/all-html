@@ -1,11 +1,19 @@
-1. Selectors:
-    * class selector attribute : "."     (used to target the )
+1. Selectors(used to target the elements):
+    * class selector attribute : "."   
     * id selector attribute    : "#"     
     ex: .stars {        (Do css)
             color: blue;    
          }
+    * element selector  : 
+    * 
+    * 
+
 2. <link rel="stylesheet" href="demo.css">
     * rel  = "relationship"
     * href = "Hypertext Reference"
+
+3. @import url(copy link)
+    
+    
 
 
